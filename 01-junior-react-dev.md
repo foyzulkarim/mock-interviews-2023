@@ -2,7 +2,8 @@
 
 We are looking for a talented and motivated junior frontend developer to join our team. The ideal candidate will have a strong understanding of HTML, CSS, and JavaScript, as well as experience with popular front-end frameworks. They should also be able to work independently and as part of a team, and be willing to learn new technologies.
 
-The deadline for submitting your solution is July 15, 2023.
+The deadline for submitting your cv and solution is July 21, 2023.
+Submission link: [https://forms.gle/xp9Yoq8zV29wtigK9](https://forms.gle/xp9Yoq8zV29wtigK9)
 
 ## Responsibilities
 
