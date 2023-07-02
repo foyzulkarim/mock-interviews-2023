@@ -50,10 +50,9 @@ As part of your application, we would like you to build a URL shortening system.
 ### Evaluation Criteria
 Your solution will be evaluated based on the following criteria:
 
-### Correctness:
-The system should generate short URLs that are unique and can be used to access the long URL.
 1. **Usability**: The system should be easy to use and understand.
 2. **Responsiveness**: The system should be responsive and should work on all major browsers.
+3. **Correctness**: The system should generate short URLs that are unique and can be used to access the long URL.
 3. **Code quality**: The code should be well-written and easy to read.
 4. **Use of react**: The system should make good use of the react framework.
 5. **Use of typescript**: The system should make good use of typescript.
