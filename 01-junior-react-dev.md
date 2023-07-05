@@ -37,7 +37,7 @@ As part of your application, we would like you to build a URL shortening system.
 ### Requirement 
 * The system should be implemented using HTML, CSS, and JavaScript.
 * You should use a react ui framework like AntD or MUI or anything popular.
-* The application should be deployed in GitHub pages.
+* The application should be deployed in GitHub pages or any other hosting platform according to your choice.
 * The site must be accessed via GitHub pages (because it is totally client side).
 * Adding storybooks will be highly encouraged.
 * Using typescript will be highly encouraged.
