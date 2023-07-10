@@ -45,7 +45,7 @@ As part of your application, we would like you to build a URL shortening system.
 ### Submission Instructions
 * To submit your solution, please create a GitHub repository and push your code to it. 
 * In the repository, please include a `README.md` file that describes your solution.
-* Your CV should be in the repository (should be in a file named `CV.md`)
+* Your CV should be in the repository (should be in a file named `CV.md` or `CV.pdf`)
 
 ### Evaluation Criteria
 Your solution will be evaluated based on the following criteria:
