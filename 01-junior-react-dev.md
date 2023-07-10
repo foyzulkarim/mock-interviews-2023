@@ -14,7 +14,7 @@ Submission link: [https://forms.gle/xp9Yoq8zV29wtigK9](https://forms.gle/xp9Yoq8
 
 ## Qualifications
 
-* Bachelor's degree in computer science or a related field
+* Bachelor's degree in computer science or a related field. Educational qualifications may be flexible for highly qualified candidates.
 * 1-2 years of experience in frontend development
 * Proficiency in HTML, CSS, and JavaScript
 * Experience with React
@@ -55,7 +55,5 @@ Your solution will be evaluated based on the following criteria:
 3. **Correctness**: The system should generate short URLs that are unique and can be used to access the long URL.
 3. **Code quality**: The code should be well-written and easy to read.
 4. **Use of react**: The system should make good use of the react framework.
-5. **Use of typescript**: The system should make good use of typescript.
-Deadline
 
 
